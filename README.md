@@ -8,18 +8,29 @@
 
 # Image Display App (IMAGE HANDELING)
 
+In this project, I have created a simple image display app. We will upload image from the admin panel. There are also addition field like title and description. I have also created a detailed view in which I have created a carousel which will display image in slideshow manner. These project was to clear the media handlings basics in django.  
+
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
 
 # Outputs
 
 ## Admin Panel
+
+Admin Panel will get the image and other inputs from admin.
+
 <img src="https://github.com/suyashphatak23/Image-Display-App/blob/main/outputs/AdminPanel.PNG" title="No Task" width="auto" height="auto" alt="No Task">
 
 ## Home Page
+
+The user interface of the home page in card manner of bootstrap.
+
 <img src="https://github.com/suyashphatak23/Image-Display-App/blob/main/outputs/HomePage.PNG" title="No Task" width="auto" height="auto" alt="No Task">
 
 ## Detailed View of Images
+
+This is detailed view of image where we can see more than one image.
+
 <img src="https://github.com/suyashphatak23/Image-Display-App/blob/main/outputs/CarouselView.PNG" title="No Task" width="auto" height="auto" alt="No Task">
 
 # Clone
